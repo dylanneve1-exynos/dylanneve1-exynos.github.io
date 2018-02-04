@@ -17,7 +17,7 @@ Here are the downloads for my XenonHD builds.
 - Sync with XenonHD source.
 ```
 
-#### For experimental builds go <a href="experimental.html">here</a>
+#### For experimental builds go <a href="pages/experimental.html">here</a>
 
 #### 2/2/2018 :
 
