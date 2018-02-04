@@ -9,6 +9,11 @@ Here are the downloads for my XenonHD builds.
 
 2/2/2018
 - Initial release.
+
+4/2/2018
+- Increase mic recording volume.
+- Add button lights only when pressed.
+- Update XenonHD device repos a bit.
 ```
 
 #### 2/2/2018 :
@@ -16,3 +21,9 @@ Here are the downloads for my XenonHD builds.
 Flat : <a href="https://drive.google.com/file/d/1Qao1NmHD17kP54VLBFD_GTr9UNZGw66Z/view?usp=drivesdk">Google Drive</a>
 
 Edge : <a href="https://drive.google.com/open?id=10POMiGSh-Dk9UgVXAfr5K6Z4Qd0POT8K">Google Drive</a>
+
+#### 4/2/2018 :
+
+Flat : Coming soon...
+
+Edge : Coming soon...
