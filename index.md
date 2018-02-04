@@ -1,4 +1,4 @@
-## Welcome to GitHub Pages
+## Welcome to dylanneve1-exynos
 
 You can use the [editor on GitHub](https://github.com/dylanneve1-exynos/dylanneve1-exynos.github.io/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
 
