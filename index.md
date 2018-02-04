@@ -27,4 +27,4 @@ Edge : <a href="https://drive.google.com/open?id=10POMiGSh-Dk9UgVXAfr5K6Z4Qd0POT
 
 Flat : <a href="https://drive.google.com/open?id=1iLCD2Ma96GIIIqIGYwXUge4KPoNOy4C9">Google Drive</a>
 
-Edge : Coming soon...
+Edge : <a href="https://drive.google.com/open?id=1fyTevAygtNYoXfEdYgmLlVJxTu_ftAm-">Google Drive</a>
