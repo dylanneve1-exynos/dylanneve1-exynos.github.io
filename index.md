@@ -14,6 +14,7 @@ Here are the downloads for my XenonHD builds.
 - Increase mic recording volume.
 - Add button lights only when pressed.
 - Update XenonHD device repos a bit.
+- Sync with XenonHD source.
 ```
 
 #### 2/2/2018 :
