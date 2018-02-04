@@ -17,8 +17,6 @@ Here are the downloads for my XenonHD builds.
 - Sync with XenonHD source.
 ```
 
-#### For experimental builds go <a href="pages/experimental.html">here</a>
-
 #### 2/2/2018 :
 
 Flat : <a href="https://drive.google.com/file/d/1Qao1NmHD17kP54VLBFD_GTr9UNZGw66Z/view?usp=drivesdk">Google Drive</a>
