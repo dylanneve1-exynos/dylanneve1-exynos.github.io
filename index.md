@@ -28,3 +28,11 @@ Edge : <a href="https://drive.google.com/open?id=10POMiGSh-Dk9UgVXAfr5K6Z4Qd0POT
 Flat : <a href="https://drive.google.com/open?id=1iLCD2Ma96GIIIqIGYwXUge4KPoNOy4C9">Google Drive</a>
 
 Edge : <a href="https://drive.google.com/open?id=1fyTevAygtNYoXfEdYgmLlVJxTu_ftAm-">Google Drive</a>
+
+### Oreo test build
+
+#### 7/2/2018
+
+Flat : <a href="https://drive.google.com/open?id=1CC5fJAME7GISs7xa_clBS0TwvZeeKYpH">Google Drive</a>
+
+Edge : <a href="https://drive.google.com/open?id=1KZGEFHx9eDMApd4OcPGwmrdoyvIfyNwF">Google Drive</a>
