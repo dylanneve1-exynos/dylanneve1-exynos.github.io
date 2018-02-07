@@ -29,7 +29,7 @@ Flat : <a href="https://drive.google.com/open?id=1iLCD2Ma96GIIIqIGYwXUge4KPoNOy4
 
 Edge : <a href="https://drive.google.com/open?id=1fyTevAygtNYoXfEdYgmLlVJxTu_ftAm-">Google Drive</a>
 
-### Oreo test build
+### Oreo 8.1.0 test build
 
 #### 7/2/2018
 
