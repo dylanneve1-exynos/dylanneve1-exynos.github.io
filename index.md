@@ -31,6 +31,10 @@ Edge : <a href="https://drive.google.com/open?id=1fyTevAygtNYoXfEdYgmLlVJxTu_ftA
 
 ### Oreo 8.1.0 test build
 
+#### Important you must flash this fix and if you don't, don't come back complaining you got reboots.
+
+Reboot fix, flat/edge : <a href="https://drive.google.com/open?id=1HlcQAcJ7RCc0SQKWwMSj4VR-u6VdvqSk">Google Drive</a>
+
 #### 7/2/2018
 
 Flat : <a href="https://drive.google.com/open?id=1CC5fJAME7GISs7xa_clBS0TwvZeeKYpH">Google Drive</a>
