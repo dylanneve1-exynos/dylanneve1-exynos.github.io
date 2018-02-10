@@ -29,7 +29,20 @@ Flat : <a href="https://drive.google.com/open?id=1iLCD2Ma96GIIIqIGYwXUge4KPoNOy4
 
 Edge : <a href="https://drive.google.com/open?id=1fyTevAygtNYoXfEdYgmLlVJxTu_ftAm-">Google Drive</a>
 
-### Oreo 8.1.0 test build
+### Oreo 8.1.0 builds
+
+```markdown
+-- Changelog --
+
+7/2/2018
+- Initial release.
+
+10/2/2018
+- Fix reboot issues.
+- Febuary security patch.
+- Update XenonHD device repos a bit.
+- Sync with XenonHD source.
+```
 
 #### Important you must flash this fix and if you don't, don't come back complaining you got reboots.
 
@@ -40,3 +53,9 @@ Reboot fix, flat/edge : <a href="https://drive.google.com/open?id=1HlcQAcJ7RCc0S
 Flat : <a href="https://drive.google.com/open?id=1CC5fJAME7GISs7xa_clBS0TwvZeeKYpH">Google Drive</a>
 
 Edge : <a href="https://drive.google.com/open?id=1KZGEFHx9eDMApd4OcPGwmrdoyvIfyNwF">Google Drive</a>
+
+#### 10/2/2018 (Does not require reboot fix)
+
+Flat : Building...
+
+Edge : Building...
