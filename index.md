@@ -4,7 +4,7 @@
 
 Here are the downloads for my XenonHD builds.
 
-### If you like my work why not consider buying a cup of <a href="https://paypal.me/dylanneve">coffee.</a>
+### If you like my work why not consider buying me a cup of <a href="https://paypal.me/dylanneve">coffee.</a>
 
 ### Nougat 7.1.2 builds.
 
