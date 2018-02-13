@@ -1,6 +1,6 @@
-## Welcome to dylanneve1-exynos
+# Welcome to dylanneve1-exynos
 
-### XenonHD
+## XenonHD
 
 Here are the downloads for my XenonHD builds.
 
