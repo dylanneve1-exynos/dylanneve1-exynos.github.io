@@ -63,3 +63,7 @@ Edge : <a href="https://drive.google.com/open?id=1KZGEFHx9eDMApd4OcPGwmrdoyvIfyN
 Flat : <a href="https://drive.google.com/open?id=1fRLdgvbv4BPx9FOS0Z9lXCkRdhiv6uuE">Google Drive</a>
 
 Edge : <a href="https://drive.google.com/open?id=1FY8NZnoXjrIClEJiBmk4aoJobxxbkpGp">Google Drive</a>
+
+## AICP 8.1.0
+
+### New builds very soon...
