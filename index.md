@@ -64,6 +64,19 @@ Flat : <a href="https://drive.google.com/open?id=1fRLdgvbv4BPx9FOS0Z9lXCkRdhiv6u
 
 Edge : <a href="https://drive.google.com/open?id=1FY8NZnoXjrIClEJiBmk4aoJobxxbkpGp">Google Drive</a>
 
-## AICP 8.1.0
+## AICP 13.1 (Android 8.1.0)
 
-### New builds very soon...
+```markdown
+-- Changelog --
+
+13/2/2018
+- Initial release.
+- Same bugs as Lineage 15.1.
+- Reboot issues should be fixed.
+```
+
+#### 13/2/2018
+
+Flat : <a href="https://drive.google.com/open?id=1925uR-On7C1wVcWAc0F5sl1GO_sbPfa9">Google Drive</a>
+
+Edge : Building...
