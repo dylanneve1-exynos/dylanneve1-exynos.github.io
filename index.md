@@ -79,4 +79,4 @@ Edge : <a href="https://drive.google.com/open?id=1FY8NZnoXjrIClEJiBmk4aoJobxxbkp
 
 Flat : <a href="https://drive.google.com/open?id=1925uR-On7C1wVcWAc0F5sl1GO_sbPfa9">Google Drive</a>
 
-Edge : Building...
+Edge : <a href="https://drive.google.com/open?id=1Soiy1dvnTo7stzcJ63QXViyPmqNpwxoG">Google Drive</a>
