@@ -46,6 +46,9 @@ Edge : <a href="https://drive.google.com/open?id=1fyTevAygtNYoXfEdYgmLlVJxTu_ftA
 - Febuary security patch.
 - Update XenonHD device repos a bit.
 - Sync with XenonHD source.
+
+16/2/2018
+-Fix video recording.
 ```
 
 #### Important you must flash this fix and if you don't, don't come back complaining you got reboots.
@@ -63,6 +66,12 @@ Edge : <a href="https://drive.google.com/open?id=1KZGEFHx9eDMApd4OcPGwmrdoyvIfyN
 Flat : <a href="https://drive.google.com/open?id=1fRLdgvbv4BPx9FOS0Z9lXCkRdhiv6uuE">Google Drive</a>
 
 Edge : <a href="https://drive.google.com/open?id=1FY8NZnoXjrIClEJiBmk4aoJobxxbkpGp">Google Drive</a>
+
+#### 16/2/2018
+
+Flat : <a href="https://drive.google.com/open?id=1FIAJ7xiCdTrd2pO8nBzHRxFPpP7CZ3AX">Google Drive</a>
+
+Edge : Building...
 
 ## AICP 13.1 (Android 8.1.0)
 
