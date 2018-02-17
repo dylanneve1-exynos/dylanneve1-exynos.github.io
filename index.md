@@ -71,7 +71,7 @@ Edge : <a href="https://drive.google.com/open?id=1FY8NZnoXjrIClEJiBmk4aoJobxxbkp
 
 Flat : <a href="https://drive.google.com/open?id=1FIAJ7xiCdTrd2pO8nBzHRxFPpP7CZ3AX">Google Drive</a>
 
-Edge : Building...
+Edge : <a href="https://drive.google.com/open?id=137_Ra1NSq6_2uDICcjN8L0RnpPSk7tCb">Google Drive</a>
 
 ## AICP 13.1 (Android 8.1.0)
 
